@@ -1,0 +1,7 @@
+* TEST
+
+** to jest org testowy
+
+#+BEGIN_SRC haskell
+f x = let y = 3 in y + x
+#+END_SRC
